@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Katyayani pandit</h1>
-<h3 align="center">A passionate MERN stack developer and AI/ML enthusiast</h3>
+<!-- <h3 align="center">A passionate MERN stack developer and AI/ML enthusiast</h3> -->
 
 - 🔭 I’m currently working on **Final-year project**
 
