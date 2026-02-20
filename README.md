@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Katyayani pandit</h1>
 <!-- <h3 align="center">A passionate MERN stack developer and AI/ML enthusiast</h3> -->
 
-- 🔭 I’m currently working on **Final-year project**
+-  I’m currently working on **Final-year project**
 
 
 
-- 📫 How to reach me **katyayanipandit156@gmail.com**
+-  How to reach me **katyayanipandit156@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
